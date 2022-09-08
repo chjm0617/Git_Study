@@ -1,1 +1,6 @@
-aa
+되돌리기
+
+reset
+revert
+
+study branch에서 수정
